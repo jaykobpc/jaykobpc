@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Jaykob
+# Hi there 👋 I'm Jaykob 💻
 
 ![Stats](https://komarev.com/ghpvc/?username=jaykobpc&color=green)
 
