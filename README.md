@@ -26,7 +26,7 @@
 ![Stats](https://komarev.com/ghpvc/?username=jaykobpc&color=green)
 
 ### #Pin
-[Whatsapp mobile clone](https://jaykobpc.github.io/vuewhatsappmobile/index.html#/)
-[Telegram mobile clone](https://jaykobpc.github.io/telegramvuemobile/#/)
-[Blog with vue](https://jaykobpc.github.io/vueblogapp/#/)
+[Whatsapp-mobile-clone](https://jaykobpc.github.io/vuewhatsappmobile/index.html#/)
+[Telegram-mobile-clone](https://jaykobpc.github.io/telegramvuemobile/#/)
+[Blog-with-vue](https://jaykobpc.github.io/vueblogapp/#/)
 
