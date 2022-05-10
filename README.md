@@ -39,3 +39,5 @@
 [Task-app](https://jaykobpc.github.io/task-app/index.html)
 
 [Chat-App](https://jaykobpc.github.io/vuechatapp/#/)
+
+[Food Store](https://chakula.netlify.app/)
