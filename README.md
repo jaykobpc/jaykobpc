@@ -24,20 +24,3 @@
 
 #### Metrics
 ![Stats](https://komarev.com/ghpvc/?username=jaykobpc&color=green)
-
-### #Pin
-[Whatsapp-mobile-clone](https://jaykobpc.github.io/vuewhatsappmobile/index.html#/)
-
-[Whatapp-web-vue-trial](https://jaykobpc.github.io/vuewhatsappweb/index.html)
-
-[Telegram-mobile-clone](https://jaykobpc.github.io/telegramvuemobile/#/)
-
-[Blog-with-vue](https://jaykobpc.github.io/vueblogapp/#/)
-
-[Coffee-app-UI](https://jaykobpc.github.io/coffeeapp/index.html#/)
-
-[Task-app](https://jaykobpc.github.io/task-app/index.html)
-
-[Chat-App](https://jaykobpc.github.io/vuechatapp/#/)
-
-[Food Store](https://chakula.netlify.app/)
